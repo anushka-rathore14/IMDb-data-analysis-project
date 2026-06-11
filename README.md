@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-![GitHub last commit](https://img.shields.io/github/last-commit/anushka-rathore14/salary-predictor?style=for-the-badge&color=00d9ff&labelColor=0d1117)
+<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/anushka-rathore14/salary-predictor?style=for-the-badge&color=00d9ff&labelColor=0d1117)
 ![GitHub repo size](https://img.shields.io/github/repo-size/anushka-rathore14/salary-predictor?style=for-the-badge&color=7c3aed&labelColor=0d1117)
-[![GitHub stars](https://img.shields.io/github/stars/anushka-rathore14/salary-predictor?style=for-the-badge&color=36BCF7)](https://github.com/anushka-rathore14/salary-predictor/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/anushka-rathore14/salary-predictor?style=for-the-badge&color=36BCF7)](https://github.com/anushka-rathore14/salary-predictor/stargazers) -->
 </p>
 
 
