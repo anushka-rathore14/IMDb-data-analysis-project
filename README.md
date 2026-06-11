@@ -5,10 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-Seaborn-4EABB3" />
-  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange" />
+![GitHub last commit](https://img.shields.io/github/last-commit/anushka-rathore14/salary-predictor?style=for-the-badge&color=00d9ff&labelColor=0d1117)
+![GitHub repo size](https://img.shields.io/github/repo-size/anushka-rathore14/salary-predictor?style=for-the-badge&color=7c3aed&labelColor=0d1117)
+[![GitHub stars](https://img.shields.io/github/stars/anushka-rathore14/salary-predictor?style=for-the-badge&color=36BCF7)](https://github.com/anushka-rathore14/salary-predictor/stargazers)
 </p>
 
 > **End-to-end Exploratory Data Analysis (EDA)** on a comprehensive **19,800+ movies dataset**, utilizing Python and Pandas to extract actionable business insights.  
