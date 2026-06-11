@@ -11,11 +11,10 @@
   <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 > **End-to-end Exploratory Data Analysis (EDA)** on a comprehensive **19,800+ movies dataset**, utilizing Python and Pandas to extract actionable business insights.  
 > This repository demonstrates a rigorous approach to **data cleaning, data type conversion, exploratory analysis, and visualization**, highlighting the transition from raw datasets to structured decision-making frameworks.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Project Significance 
 
@@ -26,6 +25,7 @@ This analysis showcases my ability to:
 - Presenting findings through clear, data-driven visual representations.
 - Maintaining clean, optimized, and reproducible code structures.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Dataset Overview
 
@@ -35,7 +35,7 @@ This analysis showcases my ability to:
 
 ### The dataset used in this project was provided as part of the Complete Data Science and Machine Learning course on GeeksForGeeks, taught by <a href="https://github.com/JayanGupta" target="_blank" rel="noopener noreferrer">Mr. Jayan Gupta</a>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Analytical Scope & Key Questions
 
@@ -52,6 +52,7 @@ The notebook tackles structured analytical problems, progressing from foundation
 - **The Sequel Effect:** Quantifying the financial impact of having numerical sequences in movie titles.
 - **The Ultimate Business Decision:** Determining the optimal movie genre to fund based on average rating and average gross income metrics.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Tools & Technologies
 
@@ -82,6 +83,7 @@ The notebook tackles structured analytical problems, progressing from foundation
 - Statistical Correlation Analysis
 - Insight Generation for Business Strategy
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Key Visualizations
 
@@ -89,6 +91,7 @@ The notebook tackles structured analytical problems, progressing from foundation
 - Histograms and distribution plots depicting the frequency of movie ratings.
 - Statistical summaries representing director hit rates and genre-based revenue averages.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Repository Structure
 
@@ -101,11 +104,15 @@ The notebook tackles structured analytical problems, progressing from foundation
     └── movies.csv            # Raw dataset
 ```
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🚀 Getting Started
 
 ### ☁️ Run on Google Colab
 1. Upload `IMDB_Project(1).ipynb` and `movies.csv` to Google Colab.
 2. Run all cells — no additional setup is required.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Contributing & Support
 
