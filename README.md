@@ -24,7 +24,6 @@ This analysis showcases core analytical competencies required for quantitative a
 - Presenting findings through clear, data-driven visual representations.
 - Maintaining clean, optimized, and reproducible code structures.
 
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="100%">
 
 ## 2. Dataset Overview
 
@@ -32,7 +31,6 @@ This analysis showcases core analytical competencies required for quantitative a
 - **Features:** Movie Title, Year, Rating, Certificate, Duration, Genre, Votes, Gross Income, Director(s), and Stars.
 - **Objective:** To conduct both descriptive and diagnostic analytics, uncovering underlying statistical trends within the cinematic industry.
 
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="100%">
 
 ## 3. Analytical Scope & Key Questions
 
@@ -49,7 +47,6 @@ The notebook tackles structured analytical problems, progressing from foundation
 - **The Sequel Effect:** Quantifying the financial impact of having numerical sequences in movie titles.
 - **The Ultimate Business Decision:** Determining the optimal movie genre to fund based on average rating and average gross income metrics.
 
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="100%">
 
 ## 4. Tools & Technologies
 
@@ -64,7 +61,6 @@ The notebook tackles structured analytical problems, progressing from foundation
 - Statistical Correlation Analysis
 - Insight Generation for Business Strategy
 
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="100%">
 
 ## 5. Key Visualizations
 
@@ -72,7 +68,6 @@ The notebook tackles structured analytical problems, progressing from foundation
 - Histograms and distribution plots depicting the frequency of movie ratings.
 - Statistical summaries representing director hit rates and genre-based revenue averages.
 
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="100%">
 
 ## 6. Repository Structure
 
