@@ -17,7 +17,7 @@
 ## Project Significance 
 
 This analysis showcases my ability to:
-- Executing  datacleaning operations on large, unstructured real-world datasets.
+- Executing  data cleaning operations on large, unstructured real-world datasets.
 - Designing and answering objective, **business-driven analytical queries**.
 - Utilizing **Pandas** for efficient data manipulation.
 - Presenting findings through clear, data-driven visual representations.
