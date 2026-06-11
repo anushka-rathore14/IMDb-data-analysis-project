@@ -2,13 +2,19 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Exploratory+Data+Analysis;Extracting+Business+Insights;Data+Cleaning+%26+Visualization" alt="Typing SVG" /></a>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/anushka-rathore14/salary-predictor?style=for-the-badge&color=00d9ff&labelColor=0d1117)
+![GitHub repo size](https://img.shields.io/github/repo-size/anushka-rathore14/salary-predictor?style=for-the-badge&color=7c3aed&labelColor=0d1117)
+[![GitHub stars](https://img.shields.io/github/stars/anushka-rathore14/salary-predictor?style=for-the-badge&color=36BCF7)](https://github.com/anushka-rathore14/salary-predictor/stargazers)
+[![Open in Streamlit](https://img.shields.io/badge/Open%20in-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://salary-predictor-eq9ftpswnpwyarfnn2xeex.streamlit.app/)
 </div>
 
-<p align="center">
+
+<!-- <p align="center">
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/anushka-rathore14/salary-predictor?style=for-the-badge&color=00d9ff&labelColor=0d1117)
 ![GitHub repo size](https://img.shields.io/github/repo-size/anushka-rathore14/salary-predictor?style=for-the-badge&color=7c3aed&labelColor=0d1117)
 [![GitHub stars](https://img.shields.io/github/stars/anushka-rathore14/salary-predictor?style=for-the-badge&color=36BCF7)](https://github.com/anushka-rathore14/salary-predictor/stargazers) -->
-</p>
+</p> -->
 
 
 > **End-to-end Exploratory Data Analysis (EDA)** on a comprehensive **19,800+ movies dataset**, utilizing Python and Pandas to extract actionable business insights.  
